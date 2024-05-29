@@ -19,5 +19,5 @@ I am Full-stack Web Developer and Machine learning Engneering, Tech Lead & Tech 
 ### 👨‍💻 Social Platforms!!
 
 >   - 🫠 | [LinkedIN](https://www.linkedin.com/in/krishna-vamsi-mummidivarapu-417756202/)
->   - 🤩 | [GitHub](https://github.com/KRIS2HNA/temp)
+>   - 🤩 | [GitHub](https://github.com/KRIS2HNA/vamsi?tab=readme-ov-file)
 >   - 🫣 | [Instagram](https://www.instagram.com/kri.shna8065/)
